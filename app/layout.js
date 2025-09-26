@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'CPRG 306 Assignments',
+  title: 'Shopping-List',
   description: 'Assignments for Web Development 2',
 };
 
